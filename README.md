@@ -44,3 +44,8 @@ Key Features
 	•	Sets up automated retraining pipelines with Airflow to continuously enhance model performance.
 
 POSTFIX harnesses the power of AI-driven NLP, machine learning, and geospatial technologies to optimize postal services, ensuring efficient and accurate mail delivery across India’s complex postal landscape.
+
+Implementation video:
+https://youtu.be/vOiTeDGuuhQ?si=sfnoWJJbk5zKc70s
+
+
